@@ -17,7 +17,7 @@ export default function Home() {
         <section className="hero-section flex flex-col-reverse lg:flex-row items-center gap-8">
           <motion.img
             className="profile-img-hero w-32 h-32 sm:w-40 sm:h-40 md:w-52 md:h-52 rounded-full object-cover shadow-lg"
-            src="myimage.jpg"
+            src="/myimage.jpg"
             alt="profile"
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
