@@ -6,12 +6,12 @@ const projects = [
     name: "Food Delivery App",
     desc: "A full-stack food delivery application with modern UI/UX, real-time tracking, and integrated payment gateway.",
     img: "https://maticz.com/assets/images/fooddelivery/food-delivery-applications.webp",
-    link: "#",
+    link: "https://fooddelivery-lmzi.vercel.app/",
   },
   {
     name: "NotesApp",
     desc: "A minimal, responsive note-taking app with cloud sync and offline support, built for productivity.",
-    img: "https://play-lh.googleusercontent.com/K5Y24S5Quijf7yOSgPx8AMmjqlg5vz-jXxbse3DKg-QM3xnUxLwtgr2vDEsEcVSeb2iu",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNdZJBN1jY7A8lwJ3AMyevS5OnQCSWSWEAlw&s",
     link: "https://titannotesapp.netlify.app/",
   },
   {
